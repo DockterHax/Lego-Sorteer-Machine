@@ -8,7 +8,7 @@ Used library’s:
 Servo: https://os.mbed.com/users/simon/code/Servo/#36b69a7ced07 
 TCS3200: https://os.mbed.com/users/grantphillips/code/TCS3200/docs/b98e768bc655/classTCS3200.html 
 TekstLCD: https://os.mbed.com/users/wim/code/TextLCD/ 
-(Make sure to use the Mbed OS 6 version. This version also works on Mbed OS 6)
+(Make sure to use the Mbed OS 6 version, this version also works on Mbed OS 6)
 
 The machine uses:
 1	Nucleo F411RE running Mbed OS 5
